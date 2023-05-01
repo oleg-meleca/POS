@@ -1,5 +1,5 @@
 # POS
-Point of Sale
+Point of Sale 
 
 Description:
 This repository is intended for the web application: point of sale.
